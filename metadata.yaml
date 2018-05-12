@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8763
     wikipedia: http://en.wikipedia.org/wiki/Camille_Flammarion
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39279#Mysterious-Psychic-ForcesResearch-Together-with-Those-of-Other-European-Savants
 gutenberg_issued: '2012-03-27'
 gutenberg_type: Text
 identifiers:
