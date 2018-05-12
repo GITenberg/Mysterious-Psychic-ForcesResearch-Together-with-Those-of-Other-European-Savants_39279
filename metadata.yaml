@@ -1,0 +1,33 @@
+_repo: Mysterious-Psychic-ForcesResearch-Together-with-Those-of-Other-European-Savants_39279
+_version: 0.1.0
+alternative_title: Les forces naturelles inconnues. English
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Flammarion, Camille
+    aliases:
+    - Filamaryon, Kamil
+    - Flammarion, Nicolas Camille
+    birthdate: 1842
+    deathdate: 1925
+    gutenberg_agent_id: '8763'
+    url: http://www.gutenberg.org/2009/agents/8763
+    wikipedia: http://en.wikipedia.org/wiki/Camille_Flammarion
+description: ''
+gutenberg_issued: '2012-03-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39279'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spiritualism'
+- !lcsh 'Parapsychology -- Investigation'
+- !lcc 'BF'
+title: "Mysterious Psychic Forces\r\nAn Account of the Author's Investigations in\
+  \ Psychical Research, Together with Those of Other European Savants"
+url: http://www.gutenberg.org/ebooks/39279
